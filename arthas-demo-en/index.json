@@ -24,7 +24,8 @@
       "uilayout": "terminal"
     },
     "backend": {
-      "imageid": "openjdk:15"
+      "imageid": "java",
+      "environmentsprotocol": "http"
     }
   }
 }
