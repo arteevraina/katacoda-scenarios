@@ -2,7 +2,7 @@
     "title": "Arthas Demo",
     "description": "arthas-demo",
     "difficulty": "beginner",
-    "time": "2 minutes",
+    "time": "1 minute",
     "details": {
       "steps": [
         {
@@ -24,8 +24,7 @@
       "uilayout": "terminal"
     },
     "backend": {
-      "imageid": "java",
-      "environmentsprotocol": "http"
+      "imageid": "openjdk:15"
     }
   }
 }
